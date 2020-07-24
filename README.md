@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hello World 🙌🌏
 
-<!--
-**LXZE/LXZE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me
+Hi, I'm pol. Software Developer and Language Enthusiast.  
+Currently in BKK, Thailand. Doing a full-time work.    
+Code in .js, .py. Learning .ex, .clj, .rs.
 
-Here are some ideas to get you started:
+Feel free to contact me 👋  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+[![Twitter: LXZE](https://img.shields.io/twitter/follow/LXZE?style=social)](https://twitter.com/LXZE)
+
+---
+
+<!-- 
+Oh, hello there, hacker 😈
 -->
