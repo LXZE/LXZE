@@ -3,7 +3,7 @@
 ### About me
 Hi, I'm pol. Software Developer and Language Enthusiast.  
 Currently in BKK, Thailand. Doing a full-time work.    
-Code in .js, .py. Learning .ex, .clj, .rs.
+Mostly code in .ts, .js, .py. Still learn .ex, .clj, .rs.
 
 Feel free to contact me 👋  
 
