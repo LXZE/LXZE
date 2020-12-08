@@ -1,7 +1,7 @@
 # Hello World 🙌🌏
 
 ### About me
-Hi, I'm pol. Software Developer and Language Enthusiast.  
+Hi, I'm pol (Paul if anglicised). Software Developer and Language Enthusiast.  
 Currently in BKK, Thailand. Doing a full-time work.    
 Mostly code in .ts, .js, .py. Still learn .ex, .clj, .rs.
 
