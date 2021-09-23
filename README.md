@@ -9,7 +9,7 @@ Feel free to contact me 👋
 
 [![Twitter: LXZE](https://img.shields.io/twitter/follow/LXZE?style=social)](https://twitter.com/LXZE)
 
-[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LXZE&layout=compact&langs_count=10&hide_border=true&custom_title=Languages&bg_color=00000000)](https://github.com/LXZE)
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LXZE&layout=compact&langs_count=10&hide_border=true&theme=slateorange)](https://github.com/LXZE)
 
 ---
 <!--
