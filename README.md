@@ -1,9 +1,8 @@
 # Hello World 🙌🌏
 
 ### About me
-Hi, I'm Pol || พล || 鵬 (Paul if anglicised). Software Developer and Language Enthusiast.  
-Currently in BKK, Thailand. Doing a full-time work.  
-Mostly code in ![TypeScript][tsURL], ![Python][pyURL]. Learning ![Elixir][exURL], ![Rust][rsURL]  
+Hi, I'm Pol || พล || 鵬 (Paul if anglicised). Software, AI Developer and Language Enthusiast.  
+Usually code in ![TypeScript][tsURL], ![Python][pyURL], sometimes ![Elixir][exURL], ![Rust][rsURL]  
 
 Feel free to contact me 👋  
 
