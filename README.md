@@ -3,7 +3,7 @@
 ### About me
 Hi, I'm Pol || พล || 鵬 (Paul if anglicised). 
 
-Currently, I am a Data Engineer at Adastra (Thailand). 💻😎  
+Currently, I am a Data Engineer at [Adastra (Thailand)](https://www.adastra.co.th/). 💻😎  
 
 Also a part-time Full-Stack Web Developer. (Available for consultation)  
 
