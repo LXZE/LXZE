@@ -1,7 +1,14 @@
 # Hello World 🙌🌏
 
 ### About me
-Hi, I'm Pol || พล || 鵬 (Paul if anglicised). Software, AI Developer and Language Enthusiast.  
+Hi, I'm Pol || พล || 鵬 (Paul if anglicised). 
+
+Currently, I am a Data Engineer at Adastra (Thailand). 💻😎  
+
+Also a part-time Full-Stack Web Developer. (Available for consultation)  
+
+My professional interests are AI, Natural Language Processing, Web & Graph Technology, High-Performance Computing and Security / Language, Linguistic and Etymology.  
+
 Usually code in ![TypeScript][tsURL], ![Python][pyURL], sometimes ![Elixir][exURL], ![Rust][rsURL]  
 
 Feel free to contact me 👋  
