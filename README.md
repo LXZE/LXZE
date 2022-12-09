@@ -15,7 +15,7 @@ Feel free to contact me 👋
 
 [![Twitter: LXZE](https://img.shields.io/twitter/follow/LXZE?style=social)](https://twitter.com/LXZE)
 
-[![Languages](https://github-readme-stats-phi-brown.vercel.app/api/top-langs/?username=LXZE&layout=compact&langs_count=10&hide_border=false&theme=slateorange)](https://github.com/LXZE)
+[![Languages](https://github-readme-stats-phi-brown.vercel.app/api/top-langs/?username=LXZE&layout=compact&langs_count=10&hide_border=true&theme=slateorange)](https://github.com/LXZE)
 
 [tsURL]: https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white
 [pyURL]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
