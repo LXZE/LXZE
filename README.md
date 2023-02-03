@@ -13,8 +13,11 @@ Usually code in [![TypeScript][tsURL]][tsLink], [![Python][pyURL]][pyLink], some
 
 Feel free to contact me 👋  
 
-[![Twitter: LXZE](https://img.shields.io/badge/follow-%40LXZE-1DA1F2?logo=twitter&style=social)](https://twitter.com/LXZE)  
+[![Mastodon Follow][mastodonShieldsURL]](https://mastodon.in.th/@AZI1MOV) [![Twitter: LXZE][twitterShieldsURL]](https://twitter.com/LXZE)  
 [![Languages](https://github-readme-stats-phi-brown.vercel.app/api/top-langs/?username=LXZE&layout=compact&langs_count=10&hide_border=true&theme=slateorange)](https://github.com/LXZE)
+
+[mastodonShieldsURL]: https://img.shields.io/mastodon/follow/000015178?domain=https%3A%2F%2Fmastodon.in.th%2F&style=social
+[twitterShieldsURL]: https://img.shields.io/badge/follow-%40LXZE-1DA1F2?logo=twitter&style=social
 
 [tsURL]: https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white
 [tsLink]: https://github.com/LXZE?tab=repositories&q=&type=&language=typescript&sort=
