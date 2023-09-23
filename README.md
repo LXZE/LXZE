@@ -19,7 +19,7 @@ Feel free to contact me 👋
 
 [mastodonShieldsURL]: https://img.shields.io/mastodon/follow/000015178?domain=https%3A%2F%2Fmastodon.in.th%2F&style=social
 [twitterShieldsURL]: https://img.shields.io/twitter/follow/LXZE?style=social
-[visitorShieldsURL]: https://badge.lxze.me
+[visitorShieldsURL]: https://badge.lxze.me/?key=1q2w3f4p
 
 [tsURL]: https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white
 [tsLink]: https://github.com/LXZE?tab=repositories&q=&type=&language=typescript&sort=
