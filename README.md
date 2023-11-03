@@ -3,7 +3,7 @@
 ### About me
 Hi, I'm Pol || พล || 鵬 (Paul if anglicised). 
 
-Ex Data Engineering Consultant at [Adastra (Thailand)](https://www.adastra.co.th/). 
+Ex Data Engineering Consultant at [Adastra (Thailand)](https://www.adastra.co.th/).
 
 Also a part-time Full-Stack Web Developer. (Available for consultation)  
 
@@ -12,7 +12,7 @@ My professional interests are AI, Natural Language Processing, Web & Graph Techn
 Usually code in [![TypeScript][tsURL]][tsLink], [![Python][pyURL]][pyLink], sometimes [![Elixir][exURL]][exLink], [![Rust][rsURL]][rsLink]  
 
 Feel free to contact me 👋  
-
+[My resume](https://lxze.me/resume)
 
 [![Mastodon Follow][mastodonShieldsURL]](https://mastodon.in.th/@AZI1MOV) [![Twitter: LXZE][twitterShieldsURL]](https://twitter.com/LXZE) [![visitor badge][visitorShieldsURL]](https://github.com/LXZE/visitor-badge)  
 [![Languages](https://github-readme-stats-phi-brown.vercel.app/api/top-langs/?username=LXZE&layout=compact&langs_count=10&hide_border=true&theme=slateorange)](https://github.com/LXZE)
