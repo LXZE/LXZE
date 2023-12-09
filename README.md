@@ -11,7 +11,8 @@ Also a part-time Full-Stack Web Developer. (Available for consultation)
 
 My professional interests are AI, Natural Language Processing, Web & Graph Technology, High-Performance Computing and Security / Language, Linguistic and Etymology.
 
-Usually code in [![TypeScript][tsURL]][tsLink], [![Python][pyURL]][pyLink], sometimes [![Elixir][exURL]][exLink], [![Rust][rsURL]][rsLink]
+Usually code in [![TypeScript][tsURL]][tsLink], [![Python][pyURL]][pyLink],  
+sometimes [![Elixir][exURL]][exLink], [![Rust][rsURL]][rsLink], [![Ruby][rbURL]][rbLink]
 
 Feel free to contact me 👋  
 [My resume](https://lxze.me/resume)
@@ -21,7 +22,7 @@ Feel free to contact me 👋
 - [Visitor badge](https://github.com/LXZE/visitor-badge)
 
 ### Programming challenge solutions
-- Advent of Code: [2015](https://github.com/LXZE/AOC_2015), [2018 (Unfinished)](https://github.com/LXZE/AOC_2018), [2019](https://github.com/LXZE/AOC_2019), [2020](https://github.com/LXZE/AOC_2020), [2021](https://github.com/LXZE/AOC_2021), [2022](https://github.com/LXZE/AOC_2022)
+- Advent of Code: [2015](https://github.com/LXZE/AOC_2015), [2018 (Unfinished)](https://github.com/LXZE/AOC_2018), [2019](https://github.com/LXZE/AOC_2019), [2020](https://github.com/LXZE/AOC_2020), [2021](https://github.com/LXZE/AOC_2021), [2022](https://github.com/LXZE/AOC_2022), [2023 (Ongoing)](https://github.com/LXZE/AOC_2023)  
 - Leetcode: [Blind75](https://github.com/LXZE/Blind_75)
 
 ### Publications
@@ -44,6 +45,8 @@ Feel free to contact me 👋
 [exLink]: https://github.com/LXZE?tab=repositories&q=&type=&language=elixir&sort=
 [rsURL]: https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white
 [rsLink]: https://github.com/LXZE?tab=repositories&q=&type=&language=rust&sort=
+[rbURL]: https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white
+[rbLink]: https://github.com/LXZE?tab=repositories&q=&type=&language=ruby&sort=
 
 <!--
 Oh, hello there, hacker 😈
