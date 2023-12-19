@@ -3,16 +3,15 @@
 ### About me
 Hi, I'm Pol || พล || 鵬 (Paul if anglicised).
 
-Currently looking for the AI / ML / NLP engineer job.
+Currently looking for the AI / ML / NLP engineer role.
 
-Ex Data Engineering Consultant at [Adastra (Thailand)](https://www.adastra.co.th/).
-
-Also a part-time Full-Stack Web Developer. (Available for consultation)
+Ex Data Engineering Consultant and a part-time Full-Stack Web Developer. (Available for consultation)
 
 My professional interests are AI, Natural Language Processing, Web & Graph Technology, High-Performance Computing and Security / Language, Linguistic and Etymology.
 
-Usually code in [![TypeScript][tsURL]][tsLink], [![Python][pyURL]][pyLink],  
-sometimes [![Elixir][exURL]][exLink], [![Rust][rsURL]][rsLink], [![Ruby][rbURL]][rbLink]
+Professionally code in: [![TypeScript][tsURL]][tsLink], [![Python][pyURL]][pyLink]  
+As hobby: [![Elixir][exURL]][exLink], [![Ruby][rbURL]][rbLink]  
+Currently learning: [![Rust][rsURL]][rsLink], [![Haskell][hsURL]][hsLink]
 
 Feel free to contact me 👋  
 [My resume](https://lxze.me/resume)
@@ -47,6 +46,8 @@ Feel free to contact me 👋
 [rsLink]: https://github.com/LXZE?tab=repositories&q=&type=&language=rust&sort=
 [rbURL]: https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white
 [rbLink]: https://github.com/LXZE?tab=repositories&q=&type=&language=ruby&sort=
+[hsURL]: https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white
+[hsLink]: https://github.com/LXZE?tab=repositories&q=&type=&language=haskell&sort=
 
 <!--
 Oh, hello there, hacker 😈
