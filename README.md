@@ -21,7 +21,7 @@ Feel free to contact me 👋
 - [Visitor badge](https://github.com/LXZE/visitor-badge)
 
 ### Programming challenge solutions
-- Advent of Code: [2015](https://github.com/LXZE/AOC_2015), [2018 (Unfinished)](https://github.com/LXZE/AOC_2018), [2019](https://github.com/LXZE/AOC_2019), [2020](https://github.com/LXZE/AOC_2020), [2021](https://github.com/LXZE/AOC_2021), [2022](https://github.com/LXZE/AOC_2022), [2023 (Ongoing)](https://github.com/LXZE/AOC_2023)  
+- Advent of Code: [2015](https://github.com/LXZE/AOC_2015), [2018 (Unfinished)](https://github.com/LXZE/AOC_2018), [2019](https://github.com/LXZE/AOC_2019), [2020](https://github.com/LXZE/AOC_2020), [2021](https://github.com/LXZE/AOC_2021), [2022](https://github.com/LXZE/AOC_2022), [2023](https://github.com/LXZE/AOC_2023)  
 - Leetcode: [Blind75](https://github.com/LXZE/Blind_75)
 
 ### Publications
