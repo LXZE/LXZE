@@ -7,7 +7,7 @@ Currently looking for the AI / ML / NLP engineer role.
 
 Ex Data Engineering Consultant and a part-time Full-Stack Web Developer. (Available for consultation)
 
-My professional interests are AI, Natural Language Processing, Web & Graph Technology, High-Performance Computing and Security / Language, Linguistic and Etymology.
+My professional interests lie in AI, Natural Language Processing, Web & Graph Technology, High-Performance Computing and Security / Language, Linguistic and Etymology.
 
 Professionally code in: [![TypeScript][tsURL]][tsLink], [![Python][pyURL]][pyLink]  
 As hobby: [![Elixir][exURL]][exLink], [![Ruby][rbURL]][rbLink]  
@@ -21,7 +21,7 @@ Feel free to contact me 👋
 - [Visitor badge](https://github.com/LXZE/visitor-badge)
 
 ### Programming challenge solutions
-- Advent of Code: [2015](https://github.com/LXZE/AOC_2015), [2018 (Unfinished)](https://github.com/LXZE/AOC_2018), [2019](https://github.com/LXZE/AOC_2019), [2020](https://github.com/LXZE/AOC_2020), [2021](https://github.com/LXZE/AOC_2021), [2022](https://github.com/LXZE/AOC_2022), [2023](https://github.com/LXZE/AOC_2023)  
+- Advent of Code: [2015](https://github.com/LXZE/AOC_2015), [2017 (On going)](https://github.com/LXZE/AOC_2017), [2018 (On going)](https://github.com/LXZE/AOC_2018), [2019](https://github.com/LXZE/AOC_2019), [2020](https://github.com/LXZE/AOC_2020), [2021](https://github.com/LXZE/AOC_2021), [2022](https://github.com/LXZE/AOC_2022), [2023](https://github.com/LXZE/AOC_2023)  
 - Leetcode: [Blind75](https://github.com/LXZE/Blind_75)
 
 ### Publications
