@@ -3,8 +3,9 @@
 ### About me
 Hi, I'm Pol || พล || 鵬 (Paul if anglicised).
 
-Section Manager — AI, Data & Cloud Engineering at BANPU PCL.  
-And a part-time Full-Stack Web Developer. (Available for consultation)
+Senior Backend Engineer at Incubit/Tektome.  
+Ex Section Manager in AI, Data & Cloud Engineering at Banpu PLC.  
+And a part-time Full-Stack Web Developer. (Available for consultation)  
 
 My professional interests lie in AI, Natural Language Processing, Web & Graph Technology, High-Performance Computing and Security / Language, Linguistic and Etymology.
 
