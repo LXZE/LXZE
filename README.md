@@ -3,7 +3,7 @@
 ### About me
 Hi, I'm Pol || พล || 鵬 (Paul if anglicised).
 
-Lead Software Engineer (Backend) at Incubit/Tektome.  
+Lead Software Engineer (Backend) at Incubit/Tektome. (Tektome GitHub account [here](https://github.com/paul-lim-tt))  
 Ex Section Manager in AI, Data & Cloud Engineering at Banpu PLC.  
 And a part-time Full-Stack Web Developer. (Available for consultation)  
 
